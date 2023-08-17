@@ -1,2 +1,29 @@
 # PICBASIC
 PIC programming journey
+# Assembly and PIC Programming Examples
+
+This GitHub repository contains examples for those who want to learn programming in Assembly language and develop applications on PIC microcontrollers. These examples will help you get started in the world of microcontroller programming and enhance your fundamental programming skills.
+
+## Contents
+
+- (What is Assembly?)[https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm9]
+- [What is PIC?](#what-is-pic)
+- [Examples](#examples)
+  - LED On and Off
+  - Reading and Processing Button Input
+  - Reading and Processing Analog Values
+  - Working with Timers
+
+## What is Assembly?
+
+Assembly language is a low-level programming language designed for writing code that runs directly on hardware, such as microcontrollers. It provides precise control over the computer's processor and aids in creating fast and optimized code.
+
+## What is PIC?
+
+PIC microcontrollers are a popular microcontroller family used across a wide range of applications. They find applications in anything from simple electronic projects to complex industrial setups. Programming a PIC can be a rewarding experience, offering versatility and practical learning.
+
+
+This repository kickstart my journey into Assembly and PIC programming with examples.
+
+For more information and details, connet with me. Happy learning and happy coding! 🚀💻
+
