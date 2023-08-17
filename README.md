@@ -6,7 +6,7 @@ This GitHub repository contains examples for those who want to learn programming
 
 ## Contents
 
-- (What is Assembly?)[https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm9]
+- [What is Assembly?](https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm)
 - [What is PIC?](#what-is-pic)
 - [Examples](#examples)
   - LED On and Off
