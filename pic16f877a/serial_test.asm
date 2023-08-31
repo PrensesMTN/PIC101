@@ -14,6 +14,13 @@
 #pragma config CP       = OFF
 
 #include <xc.h>
+#include <stdint.h>
+
+#define _XTAL_FREQ 4000000L
+
+void serialBegin();
+void serialWriteByte(char data);
+void serialPrint(char *str);
 
 
 
