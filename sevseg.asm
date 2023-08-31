@@ -22,6 +22,7 @@ CNT1	EQU	h'0C'	;bank-0
 CNT2	EQU	h'0D'
       org	h'000' 
       GOTO	Setup
+      
 		   
 Setup
       bcf	STATUS, RP0 	;goto bant-0
