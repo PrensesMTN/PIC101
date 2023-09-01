@@ -27,3 +27,6 @@ This repository kickstart my journey into Assembly and PIC programming with exam
 
 For more information and details, connet with me. Happy learning and happy coding! 🚀💻
 
+![pic16f877a-ip-dip40-8bit-20mhz-mikrodenetleyici-pic16-serisi-dip-microchip-49098-49-B](https://github.com/PrensesMTN/PICBASIC/assets/60544998/ef2a1538-6349-43a8-919a-18fe38d79142)
+
+
