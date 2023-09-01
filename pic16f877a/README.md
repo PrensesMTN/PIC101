@@ -1,5 +1,3 @@
-
-```markdown
 # Serial Communication with Microcontroller PIC16f877a
 
 In this file, we'll explore how to perform serial data communication using PIC microcontrollers. We'll provide you with a simple example code that demonstrates how it's done.
