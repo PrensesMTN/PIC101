@@ -1,6 +1,6 @@
 # Serial Communication with Microcontroller PIC16f877a
 
-In this file, we'll explore how to perform serial data communication using PIC microcontrollers. We'll provide you with a simple example code that demonstrates how it's done.
+In this file, I'll explore how to perform serial data communication using PIC microcontroller 16f877a. I'll provide you with a simple example code that demonstrates how it's done.
 
 ![pic16f877a-ip-dip40-8bit-20mhz-mikrodenetleyici-pic16-serisi-dip-microchip-49098-49-B](https://github.com/PrensesMTN/PICBASIC/assets/60544998/ef2a1538-6349-43a8-919a-18fe38d79142)
 
