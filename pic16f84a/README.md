@@ -69,7 +69,8 @@ DELAY:
 ```
 
 ## Resources
-- [PIC16F84A Datasheet](https://www.microchip.com/en-us/product/PIC16F84A)
+- [PIC16F84A ](https://www.microchip.com/en-us/product/PIC16F84A)
+- [PIC16F84A Datasheet](https://pdf.direnc.net/upload/pic16f84a.pdf)
 - Online tutorials and forums
 - Microchip's official documentation and resources
 
