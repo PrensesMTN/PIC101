@@ -18,6 +18,7 @@ This GitHub repository contains examples for those who want to learn programming
   - Reading and Processing Analog Values
   - Working with Timers
   - Serial Write and Read
+- [License](#license)
 
 ## What is PIC?
 
@@ -44,6 +45,10 @@ C is a general-purpose computer programming language. It was created in the 1970
 3. Upload the code to your microcontroller.
 4. Observe the serial communication in action.
 
+
+## License
+This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
 
 This repository kickstart my journey into Assembly, C and PIC programming with examples.
 
