@@ -4,7 +4,7 @@ PIC programming journey
 
 # Assembly and PIC Programming Examples
 
-This GitHub repository contains examples for those who want to learn programming in Assembly language and develop applications on PIC microcontrollers. These examples will help you get started in the world of microcontroller programming and enhance your fundamental programming skills.
+This GitHub repository contains examples for those who want to learn programming in Assembly language, C language and develop applications on PIC microcontrollers. These examples will help you get started in the world of microcontroller programming and enhance your fundamental programming skills.
 
 ## Contents
 
@@ -34,6 +34,13 @@ C is a general-purpose computer programming language. It was created in the 1970
 ## Usage
 1. Clone this repository.
 2. Set up your PIC microcontroller development environment.
+  - You'll need the following tools:
+  - PICxxxx microcontrollers (IC)
+  - Programmer (e.g., PICkit) for flashing code onto the IC
+  - Development board or a custom circuit for the microcontroller (e.g., Proteus 8, PICKIT 3 Mini)
+  - PIC development environment (e.g., MPLAB X IDE)
+  - PIC programming software (e.g., MPLAB X IPE)
+
 3. Upload the code to your microcontroller.
 4. Observe the serial communication in action.
 
